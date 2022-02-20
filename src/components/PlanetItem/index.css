@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.item-conatiner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.image {
+  width: 50%;
+}
+.name {
+  color: #f8fafc;
+  font-family: 'roboto';
+  font-weight: 900;
+}
+.dec {
+  color: #f1f5f9;
+  font-family: 'roboto';
+  font-weight: 500;
+}
